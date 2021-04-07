@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Münevver</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mbbahar&label=Profile%20views&color=0e75b6&style=flat" alt="mbbahar" /> </p>
 
-<img align='right' src="https://media.giphy.com/media/hrRJ41JB2zlgZiYcCw/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/eDDrmbtY0aSAII8ffT/giphy.gif" width="230">
 
 ```javascript
 
