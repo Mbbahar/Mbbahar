@@ -45,4 +45,6 @@ export function ComputerEngineer() {
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mbbahar&show_icons=true&locale=en&layout=compact" alt="mbbahar" /></p>
 
+[![Munevver's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbbahar&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mbbahar&show_icons=true&locale=en" alt="mbbahar" /></p>
