@@ -33,7 +33,7 @@ export function ComputerEngineer() {
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/munevverbahar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="munevverbahar" height="30" width="40" /></a>
-<a href="https://twitter.com/mbbahar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mbbahar" height="30" width="40" /></a>
+<a href="https://twitter.com/mbbahar_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mbbahar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/munevverbahar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="munevverbahar" height="30" width="40" /></a>
 <a href="https://www.behance.net/munevverbahar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="munevverbahar" height="30" width="40" /></a>
 <a href="https://medium.com/@munevverbahar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@munevverbahar" height="30" width="40" /></a>
