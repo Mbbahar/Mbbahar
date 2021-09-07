@@ -50,9 +50,9 @@ export function ComputerEngineer() {
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mbbahar&show_icons=true&locale=en" alt="mbbahar" /></p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mbbahar&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mbbahar&theme=dark&show_icons=true&locale=en&layout=compact" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mbbahar&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mbbahar&theme=dark&show_icons=true" />
 </a>
 
