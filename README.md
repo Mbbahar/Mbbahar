@@ -25,7 +25,7 @@ export function ComputerEngineer() {
 }
 
 ```
-[
+
 <div class="d-flex flex-row" >
     <div>
         <h3 align="left">Connect with me:</h3>
@@ -45,7 +45,6 @@ export function ComputerEngineer() {
 
     </div>
     </div>
-](url)
 
 
 <p>
