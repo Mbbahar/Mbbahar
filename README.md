@@ -16,10 +16,13 @@ export function ComputerEngineer() {
     ],
   };
   const say_hi = (me) => {
-    console.log(`Hello my friend, thanks for dropping by! This is ${me.name}, I live in Turkey.
-    I work as a ${me.role} and recently I am focusing on unit testing and web programming for my personal growth. 
+    console.log(`Hello my friend, thanks for dropping by! 
+    This is ${me.name}, I live in Turkey.
+    I work as a ${me.role} and recently I am focusing on unit testing 
+    and web programming for my personal growth. 
     I have wide interests, but most of them are multi-platform mobile programming.
-    I write down tips and lecture notes on my personal tech blog, which can be found here: https://munevverbahar.medium.com/`);
+    I write down tips and lecture notes on my personal tech blog, 
+    which can be found here: https://munevverbahar.medium.com/`);
   };
   say_hi(me);
 }
