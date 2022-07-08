@@ -38,7 +38,7 @@ const say_hi = (me) => {
 
 
 <div align="center">
-  <div style="display: flex;">
+  <div style="display: flex; flex-direction: row;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbbahar&layout=compact&theme=dark&hide_border=1" />
   <img src="https://github-readme-stats.vercel.app/api?username=mbbahar&show_icons=true&theme=dark&hide_border=1&count_private=true" />
   </div>
