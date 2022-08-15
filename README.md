@@ -38,8 +38,8 @@ const say_hi = (me) => {
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://mbbahar-readme.vercel.app/api/pin/?username=mbbahar&repo=github-readme-stats" />
+  <img align="center" src="https://mbbahar-github-readme-stats.vercel.app/api/pin/?username=mbbahar&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://mbbahar-readme.vercel.app/api/pin/?username=mbbahar&repo=convoychat" />
+  <img align="center" src="https://mbbahar-github-readme-stats.vercel.app/api/pin/?username=mbbahar&repo=convoychat" />
 </a>
